@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">iTunes Search</string>
+    <string name="media_type">Media Type</string>
+
+    <string-array name="spinner_media_types">
+        <item>All</item>
+        <item>Movie</item>
+        <item>Podcast</item>
+        <item>Music</item>
+        <item>Music Video</item>
+        <item>Audiobook</item>
+        <item>Short Film</item>
+        <item>TV Show</item>
+        <item>Software</item>
+        <item>Ebook</item>
+    </string-array>
+</resources>
